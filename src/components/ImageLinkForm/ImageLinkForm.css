@@ -1,0 +1,21 @@
+.box-form {
+  border-radius: 10px;
+  width: 700px;
+  border: 1px solid #333333;
+  padding: 1.5em;
+  margin: 0 5%;
+  background: orange;
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  font-size:18px;
+  padding: 5px;
+  width: 70%;
+}
+
+.detect-btn {
+  width: 30%;
+  background: rgba(128,128,128,0.5)
+}
